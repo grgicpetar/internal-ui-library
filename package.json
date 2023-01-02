@@ -1,7 +1,10 @@
 {
-    "name": "internal-ui-library",
+    "name": "@grgicpetar/internal-ui-library",
     "version": "1.0.0",
     "description": "internal ui library",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/grgicpetar"
+    },
     "scripts": {
         "rollup": "rollup -c"
     },
