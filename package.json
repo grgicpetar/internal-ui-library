@@ -1,6 +1,6 @@
 {
     "name": "@grgicpetar/internal-ui-library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "internal ui library",
     "publishConfig": {
         "registry": "https://npm.pkg.github.com/grgicpetar"
