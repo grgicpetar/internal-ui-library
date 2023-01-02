@@ -5,7 +5,7 @@ export type ButtonProps = {
 };
 
 function Button({ label }: ButtonProps) {
-    return <button>{label}</button>;
+    return <button className="bg-orange-900 text-blue-600">{label}</button>;
 }
 
 export default Button;
